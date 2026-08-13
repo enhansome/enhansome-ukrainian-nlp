@@ -27,8 +27,8 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ### Parallel
 
-* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/) ⭐ 852 | 🐛 12 | 🌐 Makefile | 📅 2024-08-20
-* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md) ⭐ 852 | 🐛 12 | 🌐 Makefile | 📅 2024-08-20
+* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/) ⭐ 853 | 🐛 12 | 🌐 Makefile | 📅 2024-08-20
+* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md) ⭐ 853 | 🐛 12 | 🌐 Makefile | 📅 2024-08-20
 * [OPUS](https://opus.nlpl.eu/)
 * [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535)
 * [Wiki Edits](https://huggingface.co/datasets/osyvokon/wiki-edits-uk) — 5M sentence edits extracted from the Ukrainian Wikipedia revision history.
@@ -51,7 +51,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 ### Dictionaries
 
-* [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 627 | 🐛 35 | 🌐 Groovy | 📅 2026-08-09 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
+* [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 627 | 🐛 36 | 🌐 Groovy | 📅 2026-08-09 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
 * [Tonal dictionary](https://github.com/lang-uk/tone-dict-uk) ⭐ 47 | 🐛 1 | 🌐 Common Lisp | 📅 2016-09-26
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) ⭐ 24 | 🐛 0 | 📅 2025-05-15 — profanity dictionary
 * [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 23 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2026-07-20
