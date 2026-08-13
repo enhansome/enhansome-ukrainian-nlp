@@ -1,0 +1,663 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Datasets / Corpora"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mC4",
+          "description": "filtered CommonCrawl again, 196GB of Ukrainian text.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-11-22T23:28:35Z",
+            "owner": "allenai",
+            "repo": "allennlp",
+            "stars": 11888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brown-UK",
+          "description": "carefully curated corpus of modern Ukrainian language with dismabiguated tokens, 1 million words",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2026-05-30T13:55:12Z",
+            "owner": "brown-uk",
+            "repo": "corpus",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ukrainian Twitter corpus",
+          "description": "Ukrainian Twitter corpus for toxic text detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-07-04T16:04:39Z",
+            "owner": "kateryna-bobrovnyk",
+            "repo": "ukr-twi-corpus",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ukrainian forums",
+          "description": "250k sentences scraped from forums.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-06-30T12:00:52Z",
+            "owner": "khrystyna-skopyk",
+            "repo": "ukr_spell_check",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Monolingual"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tatoeba MT Challenge data sets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2024-08-20T12:56:22Z",
+            "owner": "Helsinki-NLP",
+            "repo": "Tatoeba-Challenge",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Back-translated monolingual Wiki data",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2024-08-20T12:56:22Z",
+            "owner": "Helsinki-NLP",
+            "repo": "Tatoeba-Challenge",
+            "stars": 852
+          }
+        }
+      ],
+      "title": "Parallel"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UA-GEC",
+          "description": "grammatical error correction (GEC) and fluency corpus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Macaulay2",
+            "last_commit": "2024-02-11T07:54:56Z",
+            "owner": "grammarly",
+            "repo": "ua-gec",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NER-uk",
+          "description": "Brown-UK labeled for named entities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-30T10:52:47Z",
+            "owner": "lang-uk",
+            "repo": "ner-uk",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ua-news",
+          "description": "150k news article in 5 categories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-26T13:13:00Z",
+            "owner": "fido-ai",
+            "repo": "ua-datasets",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UA-SQuAD",
+          "description": "Ukrainian version of Stanford Question Answering Dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-26T13:13:00Z",
+            "owner": "fido-ai",
+            "repo": "ua-datasets",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Dependencies",
+          "description": "dependency trees corpus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-06T19:15:36Z",
+            "owner": "UniversalDependencies",
+            "repo": "UD_Ukrainian-IU",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ukrainian Winograd schema challenge (WSC) Dataset",
+          "description": "manually translated.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-22T00:52:58Z",
+            "owner": "pkuchmiichuk",
+            "repo": "ua-coref",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ukrainian OntoNotes Dataset",
+          "description": "scripts to build large silver dataset for coreference resolution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-22T00:52:58Z",
+            "owner": "pkuchmiichuk",
+            "repo": "ua-coref",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Labeled"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ВЕСУМ",
+          "description": "POS tag dictionary. Can generate a list of all word forms valid for spelling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2026-08-09T02:23:40Z",
+            "owner": "brown-uk",
+            "repo": "dict_uk",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tonal dictionary",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2016-09-26T10:08:11Z",
+            "owner": "lang-uk",
+            "repo": "tone-dict-uk",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obscene-ukr",
+          "description": "profanity dictionary",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-15T14:30:47Z",
+            "owner": "kateryna-bobrovnyk",
+            "repo": "obscene-ukr",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Word stress dictionary",
+          "description": "word stress for 2.7M word forms. See ukrainian-word-stress",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-29T15:49:00Z",
+            "owner": "lang-uk",
+            "repo": "ukrainian-word-stress-dictionary",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heteronyms",
+          "description": "words that share the same spelling but have different meaning/pronunciation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-12T19:46:26Z",
+            "owner": "lang-uk",
+            "repo": "ukrainian-heteronyms-dictionary",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Abbreviations",
+          "description": "map abbreviation to expansion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-18T08:33:48Z",
+            "owner": "lang-uk",
+            "repo": "ukrainian-abbreviations-dictionary",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Dictionaries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pymorphy2",
+          "description": "+ pymorphy2-dicts-uk — POS tagger and lemmatizer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-26T17:47:11Z",
+            "owner": "pymorphy2",
+            "repo": "pymorphy2",
+            "stars": 1175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLP-Cube",
+          "description": "Python package for tokenization, sentence splitting, multi-word-tokenization, lemmatization, part-of-speech tagging and dependency parsing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-11-03T16:28:36Z",
+            "owner": "adobe",
+            "repo": "NLP-Cube",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nlp-uk",
+          "description": "Tools for cleaning and normalizing texts, tokenization, lemmatization, POS, disambiguation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2026-05-27T00:28:35Z",
+            "owner": "brown-uk",
+            "repo": "nlp_uk",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tree_stem",
+          "description": "stemmer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-22T04:42:21Z",
+            "owner": "amakukha",
+            "repo": "stemmers_ukrainian",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "2. Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3. Pretrained models"
+    },
+    {
+      "description": "Autoregressive:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XGLM",
+          "description": "multilingual autoregressive LM, the 4.5B checkpoint includes Ukrainian.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-09-30T11:16:06Z",
+            "owner": "facebookresearch",
+            "repo": "fairseq",
+            "stars": 32241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UAlpaca",
+          "description": "Llama fine-tuned for instruction following on the machine-translated Alpaca dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-12T19:25:44Z",
+            "owner": "robinhad",
+            "repo": "kruk",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uk4b",
+          "description": "and haloop inference toolkit - GPT-2 small, medium and large-style models trained on UberText 2.0 wikipedia, news and books.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-06T11:25:26Z",
+            "owner": "proger",
+            "repo": "uk4b",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Language models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "M2M-100",
+          "description": "Ukrainian to/from 100 languages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-09-30T11:16:06Z",
+            "owner": "facebookresearch",
+            "repo": "fairseq",
+            "stars": 32241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helsinki-NLP / OPUS-MT models",
+          "description": "Ukrainian to/from 25 langaguages.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OPUS-MT models evaluated on flores101",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-04-27T08:55:33Z",
+                "owner": "Helsinki-NLP",
+                "repo": "UkrainianLT",
+                "stars": 40
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-27T08:55:33Z",
+            "owner": "Helsinki-NLP",
+            "repo": "UkrainianLT",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uk-En folktale corpus",
+          "description": "small sentence-aligned corpus of fairy tales.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-15T18:59:04Z",
+            "owner": "Ukrainian-To-English-Corpora",
+            "repo": "Folktale_corpus",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Machine translation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mBART50",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-09-30T11:16:06Z",
+            "owner": "facebookresearch",
+            "repo": "fairseq",
+            "stars": 32241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mT5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-15T16:32:35Z",
+            "owner": "google-research",
+            "repo": "multilingual-t5",
+            "stars": 1295
+          }
+        }
+      ],
+      "title": "Sequence-to-sequence models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BPEmb: Subword Embeddings, includes Ukrainian",
+          "description": "easy to use with Flair",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-27T18:11:31Z",
+            "owner": "flairNLP",
+            "repo": "flair",
+            "stars": 14382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flair",
+          "description": "Ukrainian added in 2022.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-27T18:11:31Z",
+            "owner": "flairNLP",
+            "repo": "flair",
+            "stars": 14382
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "fastText",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Older official fastText trained on Wiki",
+              "description": "294 languages, including Ukrainian.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2024-03-22T21:40:44Z",
+                "owner": "facebookresearch",
+                "repo": "fastText",
+                "stars": 26541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fastText_multilingual",
+              "description": "78 languages, aligned to the same vector space.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-10T17:39:46Z",
+                "owner": "babylonhealth",
+                "repo": "fastText_multilingual",
+                "stars": 1201
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Word embeddings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "egorsmkv / speech-recognition-uk",
+          "description": "speech recognition and text-to-speech models and datasets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-12T21:13:32Z",
+            "owner": "egorsmkv",
+            "repo": "speech-recognition-uk",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helsinki-NLP/ UkrainianLT",
+          "description": "another collection of links to Ukrainian language tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-27T08:55:33Z",
+            "owner": "Helsinki-NLP",
+            "repo": "UkrainianLT",
+            "stars": 40
+          }
+        }
+      ],
+      "title": "5. Other resources and links"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UNLP 2024 Shared Task",
+          "description": "shared task (competition) on fine-tuning large language models (LLMs) for Ukrainian",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-15T18:56:43Z",
+            "owner": "unlp-workshop",
+            "repo": "unlp-2024-shared-task",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "UNLP 2023 Shared Task — shared task (competition) in grammatical error correction for Ukrainian",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Training data and evaluation scripts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Macaulay2",
+                "last_commit": "2023-03-14T14:40:13Z",
+                "owner": "unlp-workshop",
+                "repo": "unlp-2023-shared-task",
+                "stars": 9
+              }
+            }
+          ]
+        }
+      ],
+      "title": "6. Workshops and conferences"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:24.947Z",
+    "original_repository": "osyvokon/awesome-ukrainian-nlp",
+    "original_repository_sha": "b68098850a5a981661db1aedf6bfab03e60d529e",
+    "enhanced_repository": "enhansome/enhansome-ukrainian-nlp",
+    "enhanced_repository_description": null,
+    "title": "awesome-ukrainian-nlp with stars"
+  }
+}
