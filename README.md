@@ -33,7 +33,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 * [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535)
 * [Wiki Edits](https://huggingface.co/datasets/osyvokon/wiki-edits-uk) — 5M sentence edits extracted from the Ukrainian Wikipedia revision history.
 
-See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 40 | 🐛 1 | 📅 2022-04-27 for more data and machine translation resources links.
+See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 41 | 🐛 1 | 📅 2022-04-27 for more data and machine translation resources links.
 
 ### Labeled
 
@@ -109,12 +109,12 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 ### Machine translation
 
 * [M2M-100](https://github.com/pytorch/fairseq/tree/master/examples/m2m_100) ⚠️ Archived — Ukrainian to/from 100 languages.
-* [Helsinki-NLP / OPUS-MT models](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 40 | 🐛 1 | 📅 2022-04-27 — Ukrainian to/from 25 langaguages.
-  * [OPUS-MT models evaluated on flores101](https://github.com/Helsinki-NLP/UkrainianLT/blob/main/opus-mt-ukr-flores-devtest.md) ⭐ 40 | 🐛 1 | 📅 2022-04-27
+* [Helsinki-NLP / OPUS-MT models](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 41 | 🐛 1 | 📅 2022-04-27 — Ukrainian to/from 25 langaguages.
+  * [OPUS-MT models evaluated on flores101](https://github.com/Helsinki-NLP/UkrainianLT/blob/main/opus-mt-ukr-flores-devtest.md) ⭐ 41 | 🐛 1 | 📅 2022-04-27
   * [OPUS-MT models at HuggingFace](https://huggingface.co/models?language=uk\&pipeline_tag=translation\&sort=modified)
 * [Uk-En folktale corpus](https://github.com/Ukrainian-To-English-Corpora/Folktale_corpus) ⭐ 0 | 🐛 0 | 📅 2022-09-15 — small sentence-aligned corpus of fairy tales.
 
-See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 40 | 🐛 1 | 📅 2022-04-27 for more.
+See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 41 | 🐛 1 | 📅 2022-04-27 for more.
 
 ### Sequence-to-sequence models
 
@@ -158,7 +158,7 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 ## 5. Other resources and links
 
 * [egorsmkv / speech-recognition-uk](https://github.com/egorsmkv/speech-recognition-uk) ⭐ 439 | 🐛 11 | 🌐 Python | 📅 2025-09-12 — speech recognition and text-to-speech models and datasets
-* [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 40 | 🐛 1 | 📅 2022-04-27 — another collection of links to Ukrainian language tools.
+* [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 41 | 🐛 1 | 📅 2022-04-27 — another collection of links to Ukrainian language tools.
 
 ## 6. Workshops and conferences
 
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
