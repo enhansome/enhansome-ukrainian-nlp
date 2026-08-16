@@ -37,7 +37,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 ### Labeled
 
-* [UA-GEC](https://github.com/grammarly/ua-gec) ⭐ 272 | 🐛 4 | 🌐 Macaulay2 | 📅 2024-02-11 — grammatical error correction (GEC) and fluency corpus.
+* [UA-GEC](https://github.com/grammarly/ua-gec) ⭐ 273 | 🐛 4 | 🌐 Macaulay2 | 📅 2024-02-11 — grammatical error correction (GEC) and fluency corpus.
 * [NER-uk](https://github.com/lang-uk/ner-uk) ⭐ 94 | 🐛 7 | 🌐 Common Lisp | 📅 2026-07-30 — Brown-UK labeled for named entities.
 * [ua-news](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/text_classification) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-10-26 — 150k news article in 5 categories.
 * [UA-SQuAD](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/question_answering) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-10-26 — Ukrainian version of Stanford Question Answering Dataset.
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

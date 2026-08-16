@@ -115,7 +115,7 @@
             "last_commit": "2024-02-11T07:54:56Z",
             "owner": "grammarly",
             "repo": "ua-gec",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32240
+            "stars": 32239
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32240
+            "stars": 32239
           }
         },
         {
@@ -487,7 +487,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32240
+            "stars": 32239
           }
         },
         {
@@ -554,7 +554,7 @@
                 "last_commit": "2024-03-22T21:40:44Z",
                 "owner": "facebookresearch",
                 "repo": "fastText",
-                "stars": 26540
+                "stars": 26541
               }
             },
             {
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:57:10.753Z",
+    "last_updated": "2026-08-16T14:57:08.136Z",
     "original_repository": "osyvokon/awesome-ukrainian-nlp",
     "original_repository_sha": "b68098850a5a981661db1aedf6bfab03e60d529e",
     "enhanced_repository": "enhansome/enhansome-ukrainian-nlp",
