@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Groovy",
-            "last_commit": "2026-05-30T13:55:12Z",
+            "last_commit": "2026-08-16T18:46:02Z",
             "owner": "brown-uk",
             "repo": "corpus",
             "stars": 119
@@ -219,7 +219,7 @@
             "last_commit": "2026-08-09T02:23:40Z",
             "owner": "brown-uk",
             "repo": "dict_uk",
-            "stars": 627
+            "stars": 628
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32239
+            "stars": 32237
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32239
+            "stars": 32237
           }
         },
         {
@@ -487,7 +487,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32239
+            "stars": 32237
           }
         },
         {
@@ -521,7 +521,7 @@
             "last_commit": "2025-10-27T18:11:31Z",
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14381
+            "stars": 14382
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2025-10-27T18:11:31Z",
             "owner": "flairNLP",
             "repo": "flair",
-            "stars": 14381
+            "stars": 14382
           }
         },
         {
@@ -554,7 +554,7 @@
                 "last_commit": "2024-03-22T21:40:44Z",
                 "owner": "facebookresearch",
                 "repo": "fastText",
-                "stars": 26541
+                "stars": 26540
               }
             },
             {
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:57:08.136Z",
+    "last_updated": "2026-08-17T14:59:47.387Z",
     "original_repository": "osyvokon/awesome-ukrainian-nlp",
     "original_repository_sha": "b68098850a5a981661db1aedf6bfab03e60d529e",
     "enhanced_repository": "enhansome/enhansome-ukrainian-nlp",
