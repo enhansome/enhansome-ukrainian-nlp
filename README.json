@@ -594,7 +594,7 @@
                     "last_commit": "2024-03-22T21:40:44Z",
                     "owner": "facebookresearch",
                     "repo": "fastText",
-                    "stars": 26539
+                    "stars": 26538
                   }
                 },
                 {
@@ -703,7 +703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:19.085Z",
+    "last_updated": "2026-08-19T15:05:47.215Z",
     "original_repository": "osyvokon/awesome-ukrainian-nlp",
     "original_repository_id": 284440381,
     "original_repository_sha": "b68098850a5a981661db1aedf6bfab03e60d529e",
