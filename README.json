@@ -17,7 +17,7 @@
                 "last_commit": "2022-11-22T23:28:35Z",
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11887
+                "stars": 11886
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2024-08-20T12:56:22Z",
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
-                "stars": 853
+                "stars": 854
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2024-08-20T12:56:22Z",
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
-                "stars": 853
+                "stars": 854
               }
             }
           ],
@@ -402,7 +402,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32236
+                "stars": 32234
               }
             },
             {
@@ -454,7 +454,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32236
+                "stars": 32234
               }
             },
             {
@@ -522,7 +522,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32236
+                "stars": 32234
               }
             },
             {
@@ -594,7 +594,7 @@
                     "last_commit": "2024-03-22T21:40:44Z",
                     "owner": "facebookresearch",
                     "repo": "fastText",
-                    "stars": 26538
+                    "stars": 26537
                   }
                 },
                 {
@@ -703,7 +703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:05:47.215Z",
+    "last_updated": "2026-08-20T15:15:08.742Z",
     "original_repository": "osyvokon/awesome-ukrainian-nlp",
     "original_repository_id": 284440381,
     "original_repository_sha": "b68098850a5a981661db1aedf6bfab03e60d529e",
