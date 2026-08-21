@@ -402,7 +402,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32233
               }
             },
             {
@@ -454,7 +454,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32233
               }
             },
             {
@@ -522,7 +522,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32233
               }
             },
             {
@@ -537,7 +537,7 @@
                 "last_commit": "2022-12-15T16:32:35Z",
                 "owner": "google-research",
                 "repo": "multilingual-t5",
-                "stars": 1295
+                "stars": 1294
               }
             }
           ],
@@ -559,7 +559,7 @@
                 "last_commit": "2025-10-27T18:11:31Z",
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14381
+                "stars": 14382
               }
             },
             {
@@ -574,7 +574,7 @@
                 "last_commit": "2025-10-27T18:11:31Z",
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14381
+                "stars": 14382
               }
             },
             {
@@ -703,7 +703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:15:08.742Z",
+    "last_updated": "2026-08-21T15:07:32.429Z",
     "original_repository": "osyvokon/awesome-ukrainian-nlp",
     "original_repository_id": 284440381,
     "original_repository_sha": "b68098850a5a981661db1aedf6bfab03e60d529e",
