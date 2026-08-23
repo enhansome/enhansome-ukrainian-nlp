@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 45019178,
                 "language": "Groovy",
-                "last_commit": "2026-08-09T02:23:40Z",
+                "last_commit": "2026-08-23T14:41:12Z",
                 "owner": "brown-uk",
                 "repo": "dict_uk",
                 "stars": 629
@@ -703,7 +703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:56:35.761Z",
+    "last_updated": "2026-08-23T14:58:01.308Z",
     "original_repository": "osyvokon/awesome-ukrainian-nlp",
     "original_repository_id": 284440381,
     "original_repository_sha": "b68098850a5a981661db1aedf6bfab03e60d529e",
