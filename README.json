@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 45019178,
                 "language": "Groovy",
-                "last_commit": "2026-08-23T14:41:12Z",
+                "last_commit": "2026-08-24T13:04:41Z",
                 "owner": "brown-uk",
                 "repo": "dict_uk",
                 "stars": 629
@@ -402,7 +402,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32233
+                "stars": 32235
               }
             },
             {
@@ -454,7 +454,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32233
+                "stars": 32235
               }
             },
             {
@@ -522,7 +522,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32233
+                "stars": 32235
               }
             },
             {
@@ -559,7 +559,7 @@
                 "last_commit": "2025-10-27T18:11:31Z",
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14382
+                "stars": 14384
               }
             },
             {
@@ -574,7 +574,7 @@
                 "last_commit": "2025-10-27T18:11:31Z",
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14382
+                "stars": 14384
               }
             },
             {
@@ -618,6 +618,28 @@
           "description": null,
           "node_type": "group",
           "title": "Word embeddings"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ukrainian-word-stress",
+              "description": "adds word stress.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514806825,
+                "language": "Python",
+                "last_commit": "2026-07-20T12:53:12Z",
+                "owner": "lang-uk",
+                "repo": "ukrainian-word-stress",
+                "stars": 62
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
         }
       ],
       "title": "3. Pretrained models"
@@ -703,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:58:01.308Z",
+    "last_updated": "2026-08-24T14:30:43.344Z",
     "original_repository": "osyvokon/awesome-ukrainian-nlp",
     "original_repository_id": 284440381,
     "original_repository_sha": "b68098850a5a981661db1aedf6bfab03e60d529e",
