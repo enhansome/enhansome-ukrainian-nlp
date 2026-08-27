@@ -725,9 +725,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:04:41.745Z",
-    "original_repository": "osyvokon/awesome-ukrainian-nlp",
-    "original_repository_id": 284440381,
+    "last_updated": "2026-08-27T12:10:45.719Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 284440381,
+      "language": null,
+      "last_commit": "2026-02-19T10:59:54Z",
+      "owner": "osyvokon",
+      "repo": "awesome-ukrainian-nlp",
+      "stars": 239
+    },
     "original_repository_sha": "b68098850a5a981661db1aedf6bfab03e60d529e",
     "enhanced_repository": "enhansome/enhansome-ukrainian-nlp",
     "enhanced_repository_description": null,
