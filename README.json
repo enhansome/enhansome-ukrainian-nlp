@@ -18,7 +18,8 @@
                 "owner": "allenai",
                 "repo": "allennlp",
                 "stars": 11886
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "brown-uk",
                 "repo": "corpus",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "kateryna-bobrovnyk",
                 "repo": "ukr-twi-corpus",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "khrystyna-skopyk",
                 "repo": "ukr_spell_check",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             }
           ],
           "description": null,
@@ -85,7 +89,8 @@
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
                 "stars": 855
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
                 "stars": 855
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             }
           ],
           "description": "See Helsinki-NLP/UkrainianLT for more data and machine translation resources links.",
@@ -122,7 +128,8 @@
                 "owner": "grammarly",
                 "repo": "ua-gec",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "lang-uk",
                 "repo": "ner-uk",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "fido-ai",
                 "repo": "ua-datasets",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "fido-ai",
                 "repo": "ua-datasets",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -182,7 +192,8 @@
                 "owner": "UniversalDependencies",
                 "repo": "UD_Ukrainian-IU",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -197,7 +208,8 @@
                 "owner": "pkuchmiichuk",
                 "repo": "ua-coref",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "pkuchmiichuk",
                 "repo": "ua-coref",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             }
           ],
           "description": null,
@@ -234,7 +247,8 @@
                 "owner": "brown-uk",
                 "repo": "dict_uk",
                 "stars": 629
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "lang-uk",
                 "repo": "tone-dict-uk",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "kateryna-bobrovnyk",
                 "repo": "obscene-ukr",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "lang-uk",
                 "repo": "ukrainian-word-stress-dictionary",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "lang-uk",
                 "repo": "ukrainian-heteronyms-dictionary",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "lang-uk",
                 "repo": "ukrainian-abbreviations-dictionary",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             }
           ],
           "description": null,
@@ -335,7 +354,8 @@
             "owner": "pymorphy2",
             "repo": "pymorphy2",
             "stars": 1175
-          }
+          },
+          "first_seen": "2026-08-28T23:40:17.533Z"
         },
         {
           "node_type": "item",
@@ -350,7 +370,8 @@
             "owner": "adobe",
             "repo": "NLP-Cube",
             "stars": 562
-          }
+          },
+          "first_seen": "2026-08-28T23:40:17.533Z"
         },
         {
           "node_type": "item",
@@ -365,7 +386,8 @@
             "owner": "brown-uk",
             "repo": "nlp_uk",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T23:40:17.533Z"
         },
         {
           "node_type": "item",
@@ -380,7 +402,8 @@
             "owner": "amakukha",
             "repo": "stemmers_ukrainian",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:40:17.533Z"
         }
       ],
       "title": "2. Tools"
@@ -403,7 +426,8 @@
                 "owner": "facebookresearch",
                 "repo": "fairseq",
                 "stars": 32232
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -418,7 +442,8 @@
                 "owner": "robinhad",
                 "repo": "kruk",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -433,7 +458,8 @@
                 "owner": "proger",
                 "repo": "uk4b",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             }
           ],
           "description": "Autoregressive:\nMasked:\nMixed:",
@@ -455,7 +481,8 @@
                 "owner": "facebookresearch",
                 "repo": "fairseq",
                 "stars": 32232
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -475,7 +502,8 @@
                     "owner": "Helsinki-NLP",
                     "repo": "UkrainianLT",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:40:17.533Z"
                 }
               ],
               "repo_info": {
@@ -486,7 +514,8 @@
                 "owner": "Helsinki-NLP",
                 "repo": "UkrainianLT",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -501,7 +530,8 @@
                 "owner": "Ukrainian-To-English-Corpora",
                 "repo": "Folktale_corpus",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             }
           ],
           "description": "See Helsinki-NLP/ UkrainianLT for more.",
@@ -523,7 +553,8 @@
                 "owner": "facebookresearch",
                 "repo": "fairseq",
                 "stars": 32232
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -538,7 +569,8 @@
                 "owner": "google-research",
                 "repo": "multilingual-t5",
                 "stars": 1294
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             }
           ],
           "description": null,
@@ -560,7 +592,8 @@
                 "owner": "flairNLP",
                 "repo": "flair",
                 "stars": 14384
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "item",
@@ -575,7 +608,8 @@
                 "owner": "flairNLP",
                 "repo": "flair",
                 "stars": 14384
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             },
             {
               "node_type": "group",
@@ -595,7 +629,8 @@
                     "owner": "facebookresearch",
                     "repo": "fastText",
                     "stars": 26534
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:40:17.533Z"
                 },
                 {
                   "node_type": "item",
@@ -610,7 +645,8 @@
                     "owner": "babylonhealth",
                     "repo": "fastText_multilingual",
                     "stars": 1201
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:40:17.533Z"
                 }
               ]
             }
@@ -634,7 +670,8 @@
                 "owner": "lang-uk",
                 "repo": "ukrainian-word-stress",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             }
           ],
           "description": null,
@@ -660,7 +697,8 @@
             "owner": "egorsmkv",
             "repo": "speech-recognition-uk",
             "stars": 439
-          }
+          },
+          "first_seen": "2026-08-28T23:40:17.533Z"
         },
         {
           "node_type": "item",
@@ -675,7 +713,8 @@
             "owner": "Helsinki-NLP",
             "repo": "UkrainianLT",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T23:40:17.533Z"
         }
       ],
       "title": "5. Other resources and links"
@@ -696,7 +735,8 @@
             "owner": "unlp-workshop",
             "repo": "unlp-2024-shared-task",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:40:17.533Z"
         },
         {
           "node_type": "group",
@@ -716,7 +756,8 @@
                 "owner": "unlp-workshop",
                 "repo": "unlp-2023-shared-task",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
             }
           ]
         }
@@ -725,7 +766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:58:23.598Z",
+    "last_updated": "2026-08-28T23:40:17.533Z",
     "original_repository_info": {
       "archived": false,
       "id": 284440381,
