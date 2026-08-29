@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An open-source NLP research library, built on PyTorch.",
+                "homepage": "http://www.allennlp.org",
                 "id": 91356408,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-22T23:28:35Z",
+                "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11886
+                "stars": 11886,
+                "topics": [
+                  "data-science",
+                  "deep-learning",
+                  "natural-language-processing",
+                  "nlp",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -28,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Браунський корпус української мови",
+                "homepage": null,
                 "id": 63548543,
                 "language": "Groovy",
+                "license": null,
                 "last_commit": "2026-08-16T18:46:02Z",
+                "open_issues": 4,
                 "owner": "brown-uk",
                 "repo": "corpus",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -44,12 +61,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A corpus of Ukrainian Twitter texts + instructions for downloading and filtering texts.",
+                "homepage": null,
                 "id": 189288526,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2019-07-04T16:04:39Z",
+                "open_issues": 0,
                 "owner": "kateryna-bobrovnyk",
                 "repo": "ukr-twi-corpus",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "corpus",
+                  "corpus-generator",
+                  "corpus-linguistics",
+                  "nlp",
+                  "python",
+                  "python-script",
+                  "python3",
+                  "scraper",
+                  "ukrainian",
+                  "ukrainian-language"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -60,12 +93,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The pilot project for a spelling check for the Ukrainian language.",
+                "homepage": null,
                 "id": 95289105,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-06-30T12:00:52Z",
+                "open_issues": 0,
                 "owner": "khrystyna-skopyk",
                 "repo": "ukr_spell_check",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             }
@@ -83,12 +121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 268030629,
                 "language": "Makefile",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-20T12:56:22Z",
+                "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
-                "stars": 855
+                "stars": 855,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -99,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 268030629,
                 "language": "Makefile",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-20T12:56:22Z",
+                "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
-                "stars": 855
+                "stars": 855,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             }
@@ -122,12 +170,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UA-GEC: Grammatical Error Correction and Fluency Corpus for the Ukrainian Language",
+                "homepage": "https://ua-gec-dataset.grammarly.ai/",
                 "id": 331056179,
                 "language": "Macaulay2",
+                "license": "CC-BY-4.0",
                 "last_commit": "2024-02-11T07:54:56Z",
+                "open_issues": 4,
                 "owner": "grammarly",
                 "repo": "ua-gec",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "corpus",
+                  "corpus-data",
+                  "corpus-tools",
+                  "dataset",
+                  "gec",
+                  "grammatical-error-correction",
+                  "natural-language-processing",
+                  "nlp-datasets",
+                  "ukrainian-language"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -138,12 +201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ukranian NER annotation project",
+                "homepage": null,
                 "id": 56306639,
                 "language": "Common Lisp",
+                "license": null,
                 "last_commit": "2026-07-30T10:52:47Z",
+                "open_issues": 7,
                 "owner": "lang-uk",
                 "repo": "ner-uk",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -154,12 +222,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of datasets for Ukrainian language",
+                "homepage": "https://fido-ai.github.io/ua-datasets/",
                 "id": 350851091,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-26T13:13:00Z",
+                "open_issues": 0,
                 "owner": "fido-ai",
                 "repo": "ua-datasets",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "dataset",
+                  "natural-language-processing",
+                  "nlp",
+                  "nlp-datasets",
+                  "question-answering",
+                  "text-classification",
+                  "token-classification",
+                  "ukrainian-language"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -170,12 +252,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of datasets for Ukrainian language",
+                "homepage": "https://fido-ai.github.io/ua-datasets/",
                 "id": 350851091,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-26T13:13:00Z",
+                "open_issues": 0,
                 "owner": "fido-ai",
                 "repo": "ua-datasets",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "dataset",
+                  "natural-language-processing",
+                  "nlp",
+                  "nlp-datasets",
+                  "question-answering",
+                  "text-classification",
+                  "token-classification",
+                  "ukrainian-language"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -186,12 +282,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 48279825,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-06T19:15:36Z",
+                "open_issues": 2,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Ukrainian-IU",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -202,12 +303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Silver Data for Coreference Resolution in Ukrainian",
+                "homepage": null,
                 "id": 617555053,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-22T00:52:58Z",
+                "open_issues": 0,
                 "owner": "pkuchmiichuk",
                 "repo": "ua-coref",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -218,12 +324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Silver Data for Coreference Resolution in Ukrainian",
+                "homepage": null,
                 "id": 617555053,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-22T00:52:58Z",
+                "open_issues": 0,
                 "owner": "pkuchmiichuk",
                 "repo": "ua-coref",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             }
@@ -241,12 +352,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project to generate POS tag dictionary for Ukrainian language",
+                "homepage": null,
                 "id": 45019178,
                 "language": "Groovy",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T13:04:41Z",
+                "open_issues": 36,
                 "owner": "brown-uk",
                 "repo": "dict_uk",
-                "stars": 629
+                "stars": 629,
+                "topics": [
+                  "dictionaries",
+                  "hunspell",
+                  "morfologik",
+                  "pos-tag-dictionary"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -257,12 +378,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ukrainian tone dictionary",
+                "homepage": null,
                 "id": 60399321,
                 "language": "Common Lisp",
+                "license": null,
                 "last_commit": "2016-09-26T10:08:11Z",
+                "open_issues": 1,
                 "owner": "lang-uk",
                 "repo": "tone-dict-uk",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -273,12 +399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dictionary of obscene words for Ukrainian language",
+                "homepage": null,
                 "id": 169311593,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-15T14:30:47Z",
+                "open_issues": 0,
                 "owner": "kateryna-bobrovnyk",
                 "repo": "obscene-ukr",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -289,12 +420,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dictionary of word stresses in the Ukrainian language 🇺🇦",
+                "homepage": null,
                 "id": 377418381,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-29T15:49:00Z",
+                "open_issues": 3,
                 "owner": "lang-uk",
                 "repo": "ukrainian-word-stress-dictionary",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "dictionary",
+                  "lingustics",
+                  "natural-language-processing",
+                  "ukrainian-language",
+                  "ukrainian-nlp"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -305,12 +447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dictionary of heteronyms in the Ukrainian language",
+                "homepage": null,
                 "id": 377758523,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-07-12T19:46:26Z",
+                "open_issues": 0,
                 "owner": "lang-uk",
                 "repo": "ukrainian-heteronyms-dictionary",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -321,12 +468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dictionary of abbreviations in the Ukrainian language",
+                "homepage": null,
                 "id": 449202581,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-01-18T08:33:48Z",
+                "open_issues": 0,
                 "owner": "lang-uk",
                 "repo": "ukrainian-abbreviations-dictionary",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             }
@@ -348,12 +500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Morphological analyzer / inflection engine for Russian and Ukrainian languages.",
+            "homepage": "https://pymorphy2.readthedocs.io/",
             "id": 5620616,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-26T17:47:11Z",
+            "open_issues": 86,
             "owner": "pymorphy2",
             "repo": "pymorphy2",
-            "stars": 1175
+            "stars": 1175,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
         },
@@ -364,12 +521,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Natural Language Processing Pipeline - Sentence Splitting, Tokenization, Lemmatization, Part-of-speech Tagging and Dependency Parsing",
+            "homepage": "http://opensource.adobe.com/NLP-Cube/index.html",
             "id": 125099497,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-03T16:28:36Z",
+            "open_issues": 4,
             "owner": "adobe",
             "repo": "NLP-Cube",
-            "stars": 562
+            "stars": 562,
+            "topics": [
+              "dependency-parser",
+              "dependency-parsing",
+              "embeddings",
+              "information-extraction",
+              "language-pipeline",
+              "lemmatization",
+              "machine-translation",
+              "nlp-cube",
+              "parse",
+              "part-of-speech-tagger",
+              "sentence-splitting",
+              "tokenization",
+              "universal-dependencies"
+            ]
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
         },
@@ -380,12 +556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a project to demonstrate NLP API from LanguageTool for Ukrainian language.",
+            "homepage": null,
             "id": 49400624,
             "language": "Groovy",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-27T00:28:35Z",
+            "open_issues": 2,
             "owner": "brown-uk",
             "repo": "nlp_uk",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
         },
@@ -396,12 +577,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A novel stemmer for the Ukrainian language trained with AI",
+            "homepage": null,
             "id": 271923622,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-22T04:42:21Z",
+            "open_issues": 1,
             "owner": "amakukha",
             "repo": "stemmers_ukrainian",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "stemmers",
+              "stemming",
+              "ukrainian",
+              "ukrainian-language"
+            ]
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
         }
@@ -420,12 +614,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+                "homepage": null,
                 "id": 101782647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
+                "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32232,
+                "topics": [
+                  "artificial-intelligence",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -436,12 +639,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ukrainian instruction-tuned language models and datasets",
+                "homepage": null,
                 "id": 620009887,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-12T19:25:44Z",
+                "open_issues": 5,
                 "owner": "robinhad",
                 "repo": "kruk",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "alpaca",
+                  "instructions",
+                  "language-model",
+                  "llama",
+                  "nlp",
+                  "ukrainian",
+                  "ukrainian-language",
+                  "ukrainian-nlp"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -452,12 +669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GPT-2 Metadata Pretraining Towards Instruction Finetuning for Ukrainian",
+                "homepage": "https://aclanthology.org/2023.unlp-1.4/",
                 "id": 599571111,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-06T11:25:26Z",
+                "open_issues": 2,
                 "owner": "proger",
                 "repo": "uk4b",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             }
@@ -475,12 +697,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+                "homepage": null,
                 "id": 101782647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
+                "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32232,
+                "topics": [
+                  "artificial-intelligence",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -496,24 +727,46 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of links to Ukrainian language tools",
+                    "homepage": null,
                     "id": 465648773,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2022-04-27T08:55:33Z",
+                    "open_issues": 1,
                     "owner": "Helsinki-NLP",
                     "repo": "UkrainianLT",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "machine-translation",
+                      "natural-language-processing",
+                      "nlp",
+                      "ukrainian",
+                      "ukrainian-nlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:40:17.533Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of links to Ukrainian language tools",
+                "homepage": null,
                 "id": 465648773,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-04-27T08:55:33Z",
+                "open_issues": 1,
                 "owner": "Helsinki-NLP",
                 "repo": "UkrainianLT",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "machine-translation",
+                  "natural-language-processing",
+                  "nlp",
+                  "ukrainian",
+                  "ukrainian-nlp"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -524,12 +777,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ukrainian-To-English Folktale Corpus",
+                "homepage": null,
                 "id": 522125512,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-09-15T18:59:04Z",
+                "open_issues": 0,
                 "owner": "Ukrainian-To-English-Corpora",
                 "repo": "Folktale_corpus",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             }
@@ -547,12 +805,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+                "homepage": null,
                 "id": 101782647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
+                "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32232
+                "stars": 32232,
+                "topics": [
+                  "artificial-intelligence",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -563,12 +830,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 306422385,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-15T16:32:35Z",
+                "open_issues": 19,
                 "owner": "google-research",
                 "repo": "multilingual-t5",
-                "stars": 1294
+                "stars": 1294,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             }
@@ -586,12 +858,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+                "homepage": "https://flairnlp.github.io/flair/",
                 "id": 136914524,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-27T18:11:31Z",
+                "open_issues": 31,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14384
+                "stars": 14384,
+                "topics": [
+                  "machine-learning",
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "nlp",
+                  "pytorch",
+                  "semantic-role-labeling",
+                  "sequence-labeling",
+                  "word-embeddings"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -602,12 +888,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+                "homepage": "https://flairnlp.github.io/flair/",
                 "id": 136914524,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-27T18:11:31Z",
+                "open_issues": 31,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14384
+                "stars": 14384,
+                "topics": [
+                  "machine-learning",
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "nlp",
+                  "pytorch",
+                  "semantic-role-labeling",
+                  "sequence-labeling",
+                  "word-embeddings"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -623,12 +923,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Library for fast text representation and classification.",
+                    "homepage": "https://fasttext.cc/",
                     "id": 63484632,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2024-03-22T21:40:44Z",
+                    "open_issues": 554,
                     "owner": "facebookresearch",
                     "repo": "fastText",
-                    "stars": 26534
+                    "stars": 26534,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:17.533Z"
                 },
@@ -639,12 +944,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multilingual word vectors in 78 languages",
+                    "homepage": null,
                     "id": 88980430,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2023-03-10T17:39:46Z",
+                    "open_issues": 11,
                     "owner": "babylonhealth",
                     "repo": "fastText_multilingual",
-                    "stars": 1201
+                    "stars": 1201,
+                    "topics": [
+                      "distributed-representations",
+                      "machine-learning",
+                      "machine-translation",
+                      "natural-language-processing",
+                      "nlp",
+                      "word-vectors"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:40:17.533Z"
                 }
@@ -664,12 +981,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds word stress to Ukrainian texts",
+                "homepage": null,
                 "id": 514806825,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-20T12:53:12Z",
+                "open_issues": 0,
                 "owner": "lang-uk",
                 "repo": "ukrainian-word-stress",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             }
@@ -691,12 +1013,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇺🇦 Speech Recognition & Synthesis for Ukrainian",
+            "homepage": "https://huggingface.co/speech-uk",
             "id": 277473411,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-12T21:13:32Z",
+            "open_issues": 11,
             "owner": "egorsmkv",
             "repo": "speech-recognition-uk",
-            "stars": 439
+            "stars": 439,
+            "topics": [
+              "speech",
+              "speech-recognition",
+              "speech-synthesis",
+              "speech-to-text",
+              "text-to-speech",
+              "tts",
+              "ukrainian"
+            ]
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
         },
@@ -707,12 +1042,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of links to Ukrainian language tools",
+            "homepage": null,
             "id": 465648773,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-04-27T08:55:33Z",
+            "open_issues": 1,
             "owner": "Helsinki-NLP",
             "repo": "UkrainianLT",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "machine-translation",
+              "natural-language-processing",
+              "nlp",
+              "ukrainian",
+              "ukrainian-nlp"
+            ]
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
         }
@@ -729,12 +1075,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UNLP 2024 Shared Task on LLM instruction-tuning for Ukrainian ",
+            "homepage": null,
             "id": 743606084,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-15T18:56:43Z",
+            "open_issues": 1,
             "owner": "unlp-workshop",
             "repo": "unlp-2024-shared-task",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
         },
@@ -750,12 +1101,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UNLP 2023 Shared Task on Grammatical Error Correction for Ukrainian",
+                "homepage": null,
                 "id": 578486447,
                 "language": "Macaulay2",
+                "license": null,
                 "last_commit": "2023-03-14T14:40:13Z",
+                "open_issues": 0,
                 "owner": "unlp-workshop",
                 "repo": "unlp-2023-shared-task",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "grammatical-error-correction",
+                  "natural-language-processing",
+                  "nlp",
+                  "shared-task",
+                  "ukrainian-language",
+                  "ukrainian-nlp"
+                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             }
@@ -766,15 +1129,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:40:17.533Z",
+    "last_updated": "2026-08-29T04:51:14.600Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
+      "homepage": null,
       "id": 284440381,
       "language": null,
+      "license": null,
       "last_commit": "2026-02-19T10:59:54Z",
+      "open_issues": 4,
       "owner": "osyvokon",
       "repo": "awesome-ukrainian-nlp",
-      "stars": 239
+      "stars": 239,
+      "topics": [
+        "awesome-list",
+        "datasets",
+        "natural-language-processing",
+        "nlp",
+        "ukrainian",
+        "ukrainian-nlp"
+      ]
     },
     "original_repository_sha": "b68098850a5a981661db1aedf6bfab03e60d529e",
     "enhanced_repository": "enhansome/enhansome-ukrainian-nlp",
