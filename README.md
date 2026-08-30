@@ -157,7 +157,7 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ## 5. Other resources and links
 
-* [egorsmkv / speech-recognition-uk](https://github.com/egorsmkv/speech-recognition-uk) ⭐ 439 | 🐛 11 | 🌐 Python | 📅 2025-09-12 — speech recognition and text-to-speech models and datasets
+* [egorsmkv / speech-recognition-uk](https://github.com/egorsmkv/speech-recognition-uk) ⭐ 440 | 🐛 11 | 🌐 Python | 📅 2025-09-12 — speech recognition and text-to-speech models and datasets
 * [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 41 | 🐛 1 | 📅 2022-04-27 — another collection of links to Ukrainian language tools.
 
 ## 6. Workshops and conferences
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
