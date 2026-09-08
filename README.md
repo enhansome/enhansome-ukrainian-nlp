@@ -37,7 +37,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 ### Labeled
 
-* [UA-GEC](https://github.com/grammarly/ua-gec) ⭐ 273 | 🐛 4 | 🌐 Macaulay2 | 📅 2024-02-11 — grammatical error correction (GEC) and fluency corpus.
+* [UA-GEC](https://github.com/grammarly/ua-gec) ⭐ 274 | 🐛 4 | 🌐 Macaulay2 | 📅 2024-02-11 — grammatical error correction (GEC) and fluency corpus.
 * [NER-uk](https://github.com/lang-uk/ner-uk) ⭐ 94 | 🐛 7 | 🌐 Common Lisp | 📅 2026-07-30 — Brown-UK labeled for named entities.
 * [ua-news](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/text_classification) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-10-26 — 150k news article in 5 categories.
 * [UA-SQuAD](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/question_answering) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-10-26 — Ukrainian version of Stanford Question Answering Dataset.
@@ -51,7 +51,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 ### Dictionaries
 
-* [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 630 | 🐛 36 | 🌐 Groovy | 📅 2026-08-24 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
+* [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 630 | 🐛 37 | 🌐 Groovy | 📅 2026-08-24 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
 * [Tonal dictionary](https://github.com/lang-uk/tone-dict-uk) ⭐ 47 | 🐛 1 | 🌐 Common Lisp | 📅 2016-09-26
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) ⭐ 24 | 🐛 0 | 📅 2025-05-15 — profanity dictionary
 * [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 23 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2026-07-20
@@ -65,7 +65,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 ## 2. Tools
 
-* [pymorphy2](https://github.com/kmike/pymorphy2) ⭐ 1,176 | 🐛 86 | 🌐 Python | 📅 2024-06-26 + [pymorphy2-dicts-uk](https://pypi.org/project/pymorphy2-dicts-uk/) — POS tagger and lemmatizer
+* [pymorphy2](https://github.com/kmike/pymorphy2) ⭐ 1,177 | 🐛 86 | 🌐 Python | 📅 2024-06-26 + [pymorphy2-dicts-uk](https://pypi.org/project/pymorphy2-dicts-uk/) — POS tagger and lemmatizer
 * [NLP-Cube](https://github.com/adobe/NLP-Cube) ⭐ 562 | 🐛 4 | 🌐 HTML | 📅 2024-11-03 - Python package for tokenization, sentence splitting, multi-word-tokenization, lemmatization, part-of-speech tagging and dependency parsing.
 * [nlp-uk](https://github.com/brown-uk/nlp_uk) ⭐ 79 | 🐛 2 | 🌐 Groovy | 📅 2026-05-27 — Tools for cleaning and normalizing texts, tokenization, lemmatization, POS, disambiguation
 * [tree\_stem](https://github.com/amakukha/stemmers_ukrainian) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2022-11-22 — stemmer
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

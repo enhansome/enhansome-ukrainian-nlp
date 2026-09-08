@@ -179,7 +179,7 @@
                 "open_issues": 4,
                 "owner": "grammarly",
                 "repo": "ua-gec",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "corpus",
                   "corpus-data",
@@ -358,7 +358,7 @@
                 "language": "Groovy",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-24T13:04:41Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "brown-uk",
                 "repo": "dict_uk",
                 "stars": 630,
@@ -509,7 +509,7 @@
             "open_issues": 86,
             "owner": "pymorphy2",
             "repo": "pymorphy2",
-            "stars": 1176,
+            "stars": 1177,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:51:17.776Z",
+    "last_updated": "2026-09-08T18:04:47.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
