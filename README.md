@@ -134,11 +134,11 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ### Word embeddings
 
-* [BPEmb: Subword Embeddings, includes Ukrainian](https://nlp.h-its.org/bpemb/) - easy to use with [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/BYTE_PAIR_EMBEDDINGS.md) ⭐ 14,386 | 🐛 31 | 🌐 Python | 📅 2025-10-27
-* [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/FLAIR_EMBEDDINGS.md) ⭐ 14,386 | 🐛 31 | 🌐 Python | 📅 2025-10-27 — [Ukrainian](https://huggingface.co/lang-uk/flair-uk-forward) added in 2022.
+* [BPEmb: Subword Embeddings, includes Ukrainian](https://nlp.h-its.org/bpemb/) - easy to use with [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/BYTE_PAIR_EMBEDDINGS.md) ⭐ 14,387 | 🐛 31 | 🌐 Python | 📅 2025-10-27
+* [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/FLAIR_EMBEDDINGS.md) ⭐ 14,387 | 🐛 31 | 🌐 Python | 📅 2025-10-27 — [Ukrainian](https://huggingface.co/lang-uk/flair-uk-forward) added in 2022.
 * fastText
   * [Older official fastText trained on Wiki](https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md) ⚠️ Archived — 294 languages, including Ukrainian.
-  * [fastText\_multilingual](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,201 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 — 78 languages, aligned to the same vector space.
+  * [fastText\_multilingual](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,200 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 — 78 languages, aligned to the same vector space.
   * [Official fastText trained on CommonCrawl and Wiki](https://fasttext.cc/docs/en/crawl-vectors.html) — 157 languages, including Ukrainian.
   * [fasttext\_uk (2023)](https://huggingface.co/dchaplinsky/fasttext_uk) and [cbow](https://huggingface.co/dchaplinsky/fasttext_uk_cbow) — trained on UberText 2.0
 * [Word2Vec](https://lang.org.ua/en/models/#anchor4)
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
