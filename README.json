@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11883,
+                "stars": 11881,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -361,7 +361,7 @@
                 "open_issues": 37,
                 "owner": "brown-uk",
                 "repo": "dict_uk",
-                "stars": 630,
+                "stars": 631,
                 "topics": [
                   "dictionaries",
                   "hunspell",
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32228,
+                "stars": 32226,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32228,
+                "stars": 32226,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32228,
+                "stars": 32226,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -867,7 +867,7 @@
                 "open_issues": 31,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14387,
+                "stars": 14386,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -897,7 +897,7 @@
                 "open_issues": 31,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14387,
+                "stars": 14386,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:38:26.302Z",
+    "last_updated": "2026-09-14T19:34:56.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
