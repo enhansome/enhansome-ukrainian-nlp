@@ -54,7 +54,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 * [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 632 | 🐛 37 | 🌐 Groovy | 📅 2026-08-24 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
 * [Tonal dictionary](https://github.com/lang-uk/tone-dict-uk) ⭐ 47 | 🐛 1 | 🌐 Common Lisp | 📅 2016-09-26
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) ⭐ 24 | 🐛 0 | 📅 2025-05-15 — profanity dictionary
-* [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 23 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-07-20
+* [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 23 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-07-20
 * [Heteronyms](https://github.com/lang-uk/ukrainian-heteronyms-dictionary) ⭐ 5 | 🐛 0 | 📅 2022-07-12 — words that share the same spelling but have different meaning/pronunciation.
 * [Abbreviations](https://github.com/lang-uk/ukrainian-abbreviations-dictionary) ⭐ 4 | 🐛 0 | 📅 2022-01-18 — map abbreviation to expansion
 * [Multilingualsentiment, includes Ukrainian](https://sites.google.com/site/datascienceslab/projects/multilingualsentiment) - a list of positive/negative words
@@ -65,9 +65,9 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 ## 2. Tools
 
-* [pymorphy2](https://github.com/kmike/pymorphy2) ⭐ 1,177 | 🐛 86 | 🌐 Python | 📅 2024-06-26 + [pymorphy2-dicts-uk](https://pypi.org/project/pymorphy2-dicts-uk/) — POS tagger and lemmatizer
+* [pymorphy2](https://github.com/kmike/pymorphy2) ⭐ 1,176 | 🐛 86 | 🌐 Python | 📅 2024-06-26 + [pymorphy2-dicts-uk](https://pypi.org/project/pymorphy2-dicts-uk/) — POS tagger and lemmatizer
 * [NLP-Cube](https://github.com/adobe/NLP-Cube) ⭐ 562 | 🐛 4 | 🌐 HTML | 📅 2024-11-03 - Python package for tokenization, sentence splitting, multi-word-tokenization, lemmatization, part-of-speech tagging and dependency parsing.
-* [nlp-uk](https://github.com/brown-uk/nlp_uk) ⭐ 79 | 🐛 2 | 🌐 Groovy | 📅 2026-05-27 — Tools for cleaning and normalizing texts, tokenization, lemmatization, POS, disambiguation
+* [nlp-uk](https://github.com/brown-uk/nlp_uk) ⭐ 79 | 🐛 2 | 🌐 Groovy | 📅 2026-09-16 — Tools for cleaning and normalizing texts, tokenization, lemmatization, POS, disambiguation
 * [tree\_stem](https://github.com/amakukha/stemmers_ukrainian) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2022-11-22 — stemmer
 * [LanguageTool](https://languagetool.org/uk/) — grammar, style and spell checker
 * [Stanza](https://stanfordnlp.github.io/stanza/) — Python package for tokenization, multi-word-tokenization, lemmatization, POS, dependency parsing, NER
@@ -147,7 +147,7 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ### Other
 
-* [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-07-20 — adds word stress.
+* [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-07-20 — adds word stress.
 * [uk-punctcase](https://huggingface.co/ukr-models/uk-punctcase) — punctuation and case restoration model based on XLM-RoBERTa-Uk.
 * [punctuation\_uk\_bert](https://huggingface.co/dchaplinsky/punctuation_uk_bert) — another punctuation and case restoration model based on bert-base-multilingual-cased.
 
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

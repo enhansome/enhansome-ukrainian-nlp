@@ -509,7 +509,7 @@
             "open_issues": 86,
             "owner": "pymorphy2",
             "repo": "pymorphy2",
-            "stars": 1177,
+            "stars": 1176,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
@@ -561,7 +561,7 @@
             "id": 49400624,
             "language": "Groovy",
             "license": "GPL-3.0",
-            "last_commit": "2026-05-27T00:28:35Z",
+            "last_commit": "2026-09-16T14:55:54Z",
             "open_issues": 2,
             "owner": "brown-uk",
             "repo": "nlp_uk",
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32226,
+                "stars": 32225,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32226,
+                "stars": 32225,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32226,
+                "stars": 32225,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -990,7 +990,7 @@
                 "open_issues": 0,
                 "owner": "lang-uk",
                 "repo": "ukrainian-word-stress",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:28:00.822Z",
+    "last_updated": "2026-09-16T18:25:07.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
