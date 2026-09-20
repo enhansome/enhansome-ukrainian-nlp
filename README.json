@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "brown-uk",
                 "repo": "corpus",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
@@ -357,8 +357,8 @@
                 "id": 45019178,
                 "language": "Groovy",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-24T13:04:41Z",
-                "open_issues": 37,
+                "last_commit": "2026-09-19T20:59:38Z",
+                "open_issues": 36,
                 "owner": "brown-uk",
                 "repo": "dict_uk",
                 "stars": 632,
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32223,
+                "stars": 32221,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32223,
+                "stars": 32221,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32223,
+                "stars": 32221,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:25:57.515Z",
+    "last_updated": "2026-09-20T17:39:29.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
