@@ -45,7 +45,7 @@
                 "id": 63548543,
                 "language": "Groovy",
                 "license": null,
-                "last_commit": "2026-08-16T18:46:02Z",
+                "last_commit": "2026-09-21T21:51:36Z",
                 "open_issues": 4,
                 "owner": "brown-uk",
                 "repo": "corpus",
@@ -357,7 +357,7 @@
                 "id": 45019178,
                 "language": "Groovy",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T20:59:38Z",
+                "last_commit": "2026-09-22T13:09:55Z",
                 "open_issues": 37,
                 "owner": "brown-uk",
                 "repo": "dict_uk",
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32220,
+                "stars": 32221,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32220,
+                "stars": 32221,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32220,
+                "stars": 32221,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -839,7 +839,7 @@
                 "open_issues": 19,
                 "owner": "google-research",
                 "repo": "multilingual-t5",
-                "stars": 1293,
+                "stars": 1292,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:43:33.690Z",
+    "last_updated": "2026-09-22T18:15:58.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",

@@ -13,7 +13,7 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 ### Monolingual
 
 * [mC4](https://github.com/allenai/allennlp/discussions/5056) ⚠️ Archived — filtered CommonCrawl again, 196GB of Ukrainian text.
-* [Brown-UK](https://github.com/brown-uk/corpus) ⭐ 120 | 🐛 4 | 🌐 Groovy | 📅 2026-08-16 — carefully curated corpus of modern Ukrainian language with dismabiguated tokens, 1 million words
+* [Brown-UK](https://github.com/brown-uk/corpus) ⭐ 120 | 🐛 4 | 🌐 Groovy | 📅 2026-09-21 — carefully curated corpus of modern Ukrainian language with dismabiguated tokens, 1 million words
 * [Ukrainian Twitter corpus](https://github.com/saganoren/ukr-twi-corpus) ⭐ 16 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-07-04 - Ukrainian Twitter corpus for toxic text detection.
 * [Ukrainian forums](https://github.com/khrystyna-skopyk/ukr_spell_check/blob/master/data/scraped.txt) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2017-06-30 — 250k sentences scraped from forums.
 * [Kobza](https://huggingface.co/datasets/Goader/kobza) — around 1.3TB of uncompressed text, 60 billion tokens across 97 million documents, deduplicated compilation of CulturaX, Fineweb 2, HPLT 2.0, Ukrainian News and UberText 2.0.
@@ -51,7 +51,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 ### Dictionaries
 
-* [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 632 | 🐛 37 | 🌐 Groovy | 📅 2026-09-19 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
+* [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 632 | 🐛 37 | 🌐 Groovy | 📅 2026-09-22 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
 * [Tonal dictionary](https://github.com/lang-uk/tone-dict-uk) ⭐ 47 | 🐛 1 | 🌐 Common Lisp | 📅 2016-09-26
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) ⭐ 24 | 🐛 0 | 📅 2025-05-15 — profanity dictionary
 * [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 23 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-07-20
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
