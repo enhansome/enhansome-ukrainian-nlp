@@ -27,8 +27,8 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ### Parallel
 
-* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2024-08-20
-* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2024-08-20
+* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2026-09-29
+* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2026-09-29
 * [OPUS](https://opus.nlpl.eu/)
 * [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535)
 * [Wiki Edits](https://huggingface.co/datasets/osyvokon/wiki-edits-uk) — 5M sentence edits extracted from the Ukrainian Wikipedia revision history.
@@ -54,7 +54,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 * [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 632 | 🐛 37 | 🌐 Groovy | 📅 2026-09-22 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
 * [Tonal dictionary](https://github.com/lang-uk/tone-dict-uk) ⭐ 47 | 🐛 1 | 🌐 Common Lisp | 📅 2016-09-26
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) ⭐ 24 | 🐛 0 | 📅 2025-05-15 — profanity dictionary
-* [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 23 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-07-20
+* [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 23 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2026-07-20
 * [Heteronyms](https://github.com/lang-uk/ukrainian-heteronyms-dictionary) ⭐ 5 | 🐛 0 | 📅 2022-07-12 — words that share the same spelling but have different meaning/pronunciation.
 * [Abbreviations](https://github.com/lang-uk/ukrainian-abbreviations-dictionary) ⭐ 4 | 🐛 0 | 📅 2022-01-18 — map abbreviation to expansion
 * [Multilingualsentiment, includes Ukrainian](https://sites.google.com/site/datascienceslab/projects/multilingualsentiment) - a list of positive/negative words
@@ -134,11 +134,11 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ### Word embeddings
 
-* [BPEmb: Subword Embeddings, includes Ukrainian](https://nlp.h-its.org/bpemb/) - easy to use with [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/BYTE_PAIR_EMBEDDINGS.md) ⭐ 14,390 | 🐛 31 | 🌐 Python | 📅 2025-10-27
-* [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/FLAIR_EMBEDDINGS.md) ⭐ 14,390 | 🐛 31 | 🌐 Python | 📅 2025-10-27 — [Ukrainian](https://huggingface.co/lang-uk/flair-uk-forward) added in 2022.
+* [BPEmb: Subword Embeddings, includes Ukrainian](https://nlp.h-its.org/bpemb/) - easy to use with [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/BYTE_PAIR_EMBEDDINGS.md) ⭐ 14,391 | 🐛 32 | 🌐 Python | 📅 2025-10-27
+* [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/FLAIR_EMBEDDINGS.md) ⭐ 14,391 | 🐛 32 | 🌐 Python | 📅 2025-10-27 — [Ukrainian](https://huggingface.co/lang-uk/flair-uk-forward) added in 2022.
 * fastText
   * [Older official fastText trained on Wiki](https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md) ⚠️ Archived — 294 languages, including Ukrainian.
-  * [fastText\_multilingual](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,200 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 — 78 languages, aligned to the same vector space.
+  * [fastText\_multilingual](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,201 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 — 78 languages, aligned to the same vector space.
   * [Official fastText trained on CommonCrawl and Wiki](https://fasttext.cc/docs/en/crawl-vectors.html) — 157 languages, including Ukrainian.
   * [fasttext\_uk (2023)](https://huggingface.co/dchaplinsky/fasttext_uk) and [cbow](https://huggingface.co/dchaplinsky/fasttext_uk_cbow) — trained on UberText 2.0
 * [Word2Vec](https://lang.org.ua/en/models/#anchor4)
@@ -147,7 +147,7 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ### Other
 
-* [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2026-07-20 — adds word stress.
+* [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2026-07-20 — adds word stress.
 * [uk-punctcase](https://huggingface.co/ukr-models/uk-punctcase) — punctuation and case restoration model based on XLM-RoBERTa-Uk.
 * [punctuation\_uk\_bert](https://huggingface.co/dchaplinsky/punctuation_uk_bert) — another punctuation and case restoration model based on bert-base-multilingual-cased.
 
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
