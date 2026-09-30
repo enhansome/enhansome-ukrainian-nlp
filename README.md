@@ -27,8 +27,8 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ### Parallel
 
-* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2026-09-29
-* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2026-09-29
+* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
+* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
 * [OPUS](https://opus.nlpl.eu/)
 * [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535)
 * [Wiki Edits](https://huggingface.co/datasets/osyvokon/wiki-edits-uk) — 5M sentence edits extracted from the Ukrainian Wikipedia revision history.
@@ -68,7 +68,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 * [pymorphy2](https://github.com/kmike/pymorphy2) ⭐ 1,175 | 🐛 86 | 🌐 Python | 📅 2024-06-26 + [pymorphy2-dicts-uk](https://pypi.org/project/pymorphy2-dicts-uk/) — POS tagger and lemmatizer
 * [NLP-Cube](https://github.com/adobe/NLP-Cube) ⭐ 564 | 🐛 4 | 🌐 HTML | 📅 2024-11-03 - Python package for tokenization, sentence splitting, multi-word-tokenization, lemmatization, part-of-speech tagging and dependency parsing.
 * [nlp-uk](https://github.com/brown-uk/nlp_uk) ⭐ 79 | 🐛 2 | 🌐 Groovy | 📅 2026-09-16 — Tools for cleaning and normalizing texts, tokenization, lemmatization, POS, disambiguation
-* [tree\_stem](https://github.com/amakukha/stemmers_ukrainian) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2022-11-22 — stemmer
+* [tree\_stem](https://github.com/amakukha/stemmers_ukrainian) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2022-11-22 — stemmer
 * [LanguageTool](https://languagetool.org/uk/) — grammar, style and spell checker
 * [Stanza](https://stanfordnlp.github.io/stanza/) — Python package for tokenization, multi-word-tokenization, lemmatization, POS, dependency parsing, NER
 
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

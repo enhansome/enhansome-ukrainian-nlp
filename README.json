@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11884,
+                "stars": 11885,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -126,7 +126,7 @@
                 "id": 268030629,
                 "language": "Makefile",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T12:52:59Z",
+                "last_commit": "2026-09-30T11:43:56Z",
                 "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
@@ -147,7 +147,7 @@
                 "id": 268030629,
                 "language": "Makefile",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T12:52:59Z",
+                "last_commit": "2026-09-30T11:43:56Z",
                 "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
@@ -586,7 +586,7 @@
             "open_issues": 1,
             "owner": "amakukha",
             "repo": "stemmers_ukrainian",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32220,
+                "stars": 32219,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32220,
+                "stars": 32219,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32220,
+                "stars": 32219,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -932,7 +932,7 @@
                     "open_issues": 554,
                     "owner": "facebookresearch",
                     "repo": "fastText",
-                    "stars": 26526,
+                    "stars": 26524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:17.533Z"
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:37:44.642Z",
+    "last_updated": "2026-09-30T19:37:02.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
