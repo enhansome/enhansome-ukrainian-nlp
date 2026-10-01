@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32219,
+                "stars": 32217,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32219,
+                "stars": 32217,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32219,
+                "stars": 32217,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -864,7 +864,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-10-27T18:11:31Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "flairNLP",
                 "repo": "flair",
                 "stars": 14391,
@@ -894,7 +894,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-10-27T18:11:31Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "flairNLP",
                 "repo": "flair",
                 "stars": 14391,
@@ -932,7 +932,7 @@
                     "open_issues": 554,
                     "owner": "facebookresearch",
                     "repo": "fastText",
-                    "stars": 26524,
+                    "stars": 26523,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:17.533Z"
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:37:02.549Z",
+    "last_updated": "2026-10-01T19:48:00.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
