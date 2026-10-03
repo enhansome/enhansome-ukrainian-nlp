@@ -51,7 +51,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 ### Dictionaries
 
-* [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 632 | 🐛 37 | 🌐 Groovy | 📅 2026-09-22 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
+* [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 633 | 🐛 37 | 🌐 Groovy | 📅 2026-09-22 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
 * [Tonal dictionary](https://github.com/lang-uk/tone-dict-uk) ⭐ 47 | 🐛 1 | 🌐 Common Lisp | 📅 2016-09-26
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) ⭐ 24 | 🐛 0 | 📅 2025-05-15 — profanity dictionary
 * [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 23 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2026-07-20
@@ -65,7 +65,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 ## 2. Tools
 
-* [pymorphy2](https://github.com/kmike/pymorphy2) ⭐ 1,175 | 🐛 86 | 🌐 Python | 📅 2024-06-26 + [pymorphy2-dicts-uk](https://pypi.org/project/pymorphy2-dicts-uk/) — POS tagger and lemmatizer
+* [pymorphy2](https://github.com/kmike/pymorphy2) ⭐ 1,176 | 🐛 86 | 🌐 Python | 📅 2024-06-26 + [pymorphy2-dicts-uk](https://pypi.org/project/pymorphy2-dicts-uk/) — POS tagger and lemmatizer
 * [NLP-Cube](https://github.com/adobe/NLP-Cube) ⭐ 564 | 🐛 4 | 🌐 HTML | 📅 2024-11-03 - Python package for tokenization, sentence splitting, multi-word-tokenization, lemmatization, part-of-speech tagging and dependency parsing.
 * [nlp-uk](https://github.com/brown-uk/nlp_uk) ⭐ 79 | 🐛 2 | 🌐 Groovy | 📅 2026-09-16 — Tools for cleaning and normalizing texts, tokenization, lemmatization, POS, disambiguation
 * [tree\_stem](https://github.com/amakukha/stemmers_ukrainian) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2022-11-22 — stemmer
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

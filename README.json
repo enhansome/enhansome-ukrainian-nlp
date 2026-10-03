@@ -117,7 +117,7 @@
             {
               "node_type": "item",
               "title": "Tatoeba MT Challenge data sets",
-              "description": null,
+              "description": "Helsinki-NLP/Tatoeba-Challenge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -138,7 +138,7 @@
             {
               "node_type": "item",
               "title": "Back-translated monolingual Wiki data",
-              "description": null,
+              "description": "Helsinki-NLP/Tatoeba-Challenge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -361,7 +361,7 @@
                 "open_issues": 37,
                 "owner": "brown-uk",
                 "repo": "dict_uk",
-                "stars": 632,
+                "stars": 633,
                 "topics": [
                   "dictionaries",
                   "hunspell",
@@ -374,7 +374,7 @@
             {
               "node_type": "item",
               "title": "Tonal dictionary",
-              "description": null,
+              "description": "lang-uk/tone-dict-uk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -509,7 +509,7 @@
             "open_issues": 86,
             "owner": "pymorphy2",
             "repo": "pymorphy2",
-            "stars": 1175,
+            "stars": 1176,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32215,
+                "stars": 32214,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32215,
+                "stars": 32214,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -723,7 +723,7 @@
                 {
                   "node_type": "item",
                   "title": "OPUS-MT models evaluated on flores101",
-                  "description": null,
+                  "description": "Helsinki-NLP/UkrainianLT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -801,7 +801,7 @@
             {
               "node_type": "item",
               "title": "mBART50",
-              "description": null,
+              "description": "facebookresearch/fairseq",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32215,
+                "stars": 32214,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -826,7 +826,7 @@
             {
               "node_type": "item",
               "title": "mT5",
-              "description": null,
+              "description": "google-research/multilingual-t5",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1097,7 +1097,7 @@
             {
               "node_type": "item",
               "title": "Training data and evaluation scripts",
-              "description": null,
+              "description": "unlp-workshop/unlp-2023-shared-task",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:30:21.499Z",
+    "last_updated": "2026-10-03T05:13:52.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
