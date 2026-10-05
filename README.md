@@ -27,8 +27,8 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ### Parallel
 
-* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
-* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md) ⭐ 854 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
+* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/) ⭐ 855 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
+* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md) ⭐ 855 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
 * [OPUS](https://opus.nlpl.eu/)
 * [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535)
 * [Wiki Edits](https://huggingface.co/datasets/osyvokon/wiki-edits-uk) — 5M sentence edits extracted from the Ukrainian Wikipedia revision history.
@@ -41,7 +41,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 * [NER-uk](https://github.com/lang-uk/ner-uk) ⭐ 95 | 🐛 7 | 🌐 Common Lisp | 📅 2026-07-30 — Brown-UK labeled for named entities.
 * [ua-news](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/text_classification) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-10-26 — 150k news article in 5 categories.
 * [UA-SQuAD](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/question_answering) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-10-26 — Ukrainian version of Stanford Question Answering Dataset.
-* [Universal Dependencies](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/master) ⭐ 30 | 🐛 2 | 📅 2026-05-06 — dependency trees corpus.
+* [Universal Dependencies](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/master) ⭐ 30 | 🐛 2 | 📅 2026-10-05 — dependency trees corpus.
 * [Ukrainian Winograd schema challenge (WSC) Dataset](https://github.com/pkuchmiichuk/ua-coref#ukrainian-wsc-dataset) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-12-22 — manually translated.
 * [Ukrainian OntoNotes Dataset](https://github.com/pkuchmiichuk/ua-coref#ukrainian-ontonotes-dataset) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-12-22 — scripts to build large silver dataset for coreference resolution.
 * [ZNO](https://huggingface.co/datasets/osyvokon/zno) — \~4000 text-only questions and answers from Ukrainian External independent testing (ЗНО/ZNO).
@@ -54,7 +54,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 * [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 631 | 🐛 37 | 🌐 Groovy | 📅 2026-09-22 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
 * [Tonal dictionary](https://github.com/lang-uk/tone-dict-uk) ⭐ 47 | 🐛 1 | 🌐 Common Lisp | 📅 2016-09-26
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) ⭐ 24 | 🐛 0 | 📅 2025-05-15 — profanity dictionary
-* [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 23 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2026-07-20
+* [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 24 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2026-07-20
 * [Heteronyms](https://github.com/lang-uk/ukrainian-heteronyms-dictionary) ⭐ 5 | 🐛 0 | 📅 2022-07-12 — words that share the same spelling but have different meaning/pronunciation.
 * [Abbreviations](https://github.com/lang-uk/ukrainian-abbreviations-dictionary) ⭐ 4 | 🐛 0 | 📅 2022-01-18 — map abbreviation to expansion
 * [Multilingualsentiment, includes Ukrainian](https://sites.google.com/site/datascienceslab/projects/multilingualsentiment) - a list of positive/negative words
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
