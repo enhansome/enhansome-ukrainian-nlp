@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32213,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32213,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32213,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -932,7 +932,7 @@
                     "open_issues": 554,
                     "owner": "facebookresearch",
                     "repo": "fastText",
-                    "stars": 26522,
+                    "stars": 26523,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:17.533Z"
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:48:40.738Z",
+    "last_updated": "2026-10-07T20:08:20.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
