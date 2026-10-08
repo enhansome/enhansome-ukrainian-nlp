@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11886,
+                "stars": 11884,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -477,7 +477,7 @@
                 "open_issues": 0,
                 "owner": "lang-uk",
                 "repo": "ukrainian-abbreviations-dictionary",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32213,
+                "stars": 32211,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32213,
+                "stars": 32211,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32213,
+                "stars": 32211,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:08:20.798Z",
+    "last_updated": "2026-10-08T20:06:48.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
@@ -1141,7 +1141,7 @@
       "open_issues": 4,
       "owner": "osyvokon",
       "repo": "awesome-ukrainian-nlp",
-      "stars": 239,
+      "stars": 240,
       "topics": [
         "awesome-list",
         "datasets",

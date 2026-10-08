@@ -56,7 +56,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) ⭐ 24 | 🐛 0 | 📅 2025-05-15 — profanity dictionary
 * [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 24 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2026-07-20
 * [Heteronyms](https://github.com/lang-uk/ukrainian-heteronyms-dictionary) ⭐ 5 | 🐛 0 | 📅 2022-07-12 — words that share the same spelling but have different meaning/pronunciation.
-* [Abbreviations](https://github.com/lang-uk/ukrainian-abbreviations-dictionary) ⭐ 4 | 🐛 0 | 📅 2022-01-18 — map abbreviation to expansion
+* [Abbreviations](https://github.com/lang-uk/ukrainian-abbreviations-dictionary) ⭐ 5 | 🐛 0 | 📅 2022-01-18 — map abbreviation to expansion
 * [Multilingualsentiment, includes Ukrainian](https://sites.google.com/site/datascienceslab/projects/multilingualsentiment) - a list of positive/negative words
 
 ### Prompts
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
