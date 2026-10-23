@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11881,
+                "stars": 11880,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32211,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32211,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32211,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:47:23.429Z",
+    "last_updated": "2026-10-23T18:42:06.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
@@ -1138,7 +1138,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-02-19T10:59:54Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "osyvokon",
       "repo": "awesome-ukrainian-nlp",
       "stars": 240,
