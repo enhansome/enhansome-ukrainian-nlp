@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11880,
+                "stars": 11881,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "brown-uk",
                 "repo": "corpus",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
@@ -361,7 +361,7 @@
                 "open_issues": 37,
                 "owner": "brown-uk",
                 "repo": "dict_uk",
-                "stars": 633,
+                "stars": 634,
                 "topics": [
                   "dictionaries",
                   "hunspell",
@@ -565,7 +565,7 @@
             "open_issues": 2,
             "owner": "brown-uk",
             "repo": "nlp_uk",
-            "stars": 79,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:42:06.038Z",
+    "last_updated": "2026-10-24T17:35:00.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
