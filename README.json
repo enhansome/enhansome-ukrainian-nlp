@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11881,
+                "stars": 11882,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32210,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32210,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32210,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -867,7 +867,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14395,
+                "stars": 14396,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -897,7 +897,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14395,
+                "stars": 14396,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -932,7 +932,7 @@
                     "open_issues": 554,
                     "owner": "facebookresearch",
                     "repo": "fastText",
-                    "stars": 26519,
+                    "stars": 26521,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:17.533Z"
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:35:00.633Z",
+    "last_updated": "2026-10-25T17:50:40.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
