@@ -509,7 +509,7 @@
             "open_issues": 86,
             "owner": "pymorphy2",
             "repo": "pymorphy2",
-            "stars": 1176,
+            "stars": 1175,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
@@ -565,7 +565,7 @@
             "open_issues": 2,
             "owner": "brown-uk",
             "repo": "nlp_uk",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32209,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32209,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32209,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -867,7 +867,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14396,
+                "stars": 14395,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -897,7 +897,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14396,
+                "stars": 14395,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -932,7 +932,7 @@
                     "open_issues": 554,
                     "owner": "facebookresearch",
                     "repo": "fastText",
-                    "stars": 26514,
+                    "stars": 26515,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:17.533Z"
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:50:36.140Z",
+    "last_updated": "2026-10-30T19:41:10.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
