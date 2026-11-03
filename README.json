@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -867,7 +867,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14395,
+                "stars": 14396,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -897,7 +897,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14395,
+                "stars": 14396,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:52:54.434Z",
+    "last_updated": "2026-11-03T20:37:21.005Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
@@ -1138,7 +1138,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-02-19T10:59:54Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "osyvokon",
       "repo": "awesome-ukrainian-nlp",
       "stars": 240,
