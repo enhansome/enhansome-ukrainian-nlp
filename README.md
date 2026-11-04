@@ -134,8 +134,8 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ### Word embeddings
 
-* [BPEmb: Subword Embeddings, includes Ukrainian](https://nlp.h-its.org/bpemb/) - easy to use with [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/BYTE_PAIR_EMBEDDINGS.md) ⭐ 14,396 | 🐛 34 | 🌐 Python | 📅 2026-10-19
-* [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/FLAIR_EMBEDDINGS.md) ⭐ 14,396 | 🐛 34 | 🌐 Python | 📅 2026-10-19 — [Ukrainian](https://huggingface.co/lang-uk/flair-uk-forward) added in 2022.
+* [BPEmb: Subword Embeddings, includes Ukrainian](https://nlp.h-its.org/bpemb/) - easy to use with [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/BYTE_PAIR_EMBEDDINGS.md) ⭐ 14,397 | 🐛 34 | 🌐 Python | 📅 2026-10-19
+* [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/FLAIR_EMBEDDINGS.md) ⭐ 14,397 | 🐛 34 | 🌐 Python | 📅 2026-10-19 — [Ukrainian](https://huggingface.co/lang-uk/flair-uk-forward) added in 2022.
 * fastText
   * [Older official fastText trained on Wiki](https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md) ⚠️ Archived — 294 languages, including Ukrainian.
   * [fastText\_multilingual](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,204 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 — 78 languages, aligned to the same vector space.
@@ -157,7 +157,7 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ## 5. Other resources and links
 
-* [egorsmkv / speech-recognition-uk](https://github.com/egorsmkv/speech-recognition-uk) ⭐ 442 | 🐛 11 | 🌐 Python | 📅 2025-09-12 — speech recognition and text-to-speech models and datasets
+* [egorsmkv / speech-recognition-uk](https://github.com/egorsmkv/speech-recognition-uk) ⭐ 443 | 🐛 11 | 🌐 Python | 📅 2025-09-12 — speech recognition and text-to-speech models and datasets
 * [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 41 | 🐛 1 | 📅 2022-04-27 — another collection of links to Ukrainian language tools.
 
 ## 6. Workshops and conferences
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
