@@ -138,7 +138,7 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 * [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/FLAIR_EMBEDDINGS.md) ⭐ 14,397 | 🐛 34 | 🌐 Python | 📅 2026-10-19 — [Ukrainian](https://huggingface.co/lang-uk/flair-uk-forward) added in 2022.
 * fastText
   * [Older official fastText trained on Wiki](https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md) ⚠️ Archived — 294 languages, including Ukrainian.
-  * [fastText\_multilingual](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,204 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 — 78 languages, aligned to the same vector space.
+  * [fastText\_multilingual](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,203 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 — 78 languages, aligned to the same vector space.
   * [Official fastText trained on CommonCrawl and Wiki](https://fasttext.cc/docs/en/crawl-vectors.html) — 157 languages, including Ukrainian.
   * [fasttext\_uk (2023)](https://huggingface.co/dchaplinsky/fasttext_uk) and [cbow](https://huggingface.co/dchaplinsky/fasttext_uk_cbow) — trained on UberText 2.0
 * [Word2Vec](https://lang.org.ua/en/models/#anchor4)
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
