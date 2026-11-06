@@ -394,6 +394,33 @@
             },
             {
               "node_type": "item",
+              "title": "Word stress dictionary",
+              "description": "word stress for 2.7M word forms. See ukrainian-word-stress",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Dictionary of word stresses in the Ukrainian language 🇺🇦",
+                "homepage": null,
+                "id": 377418381,
+                "language": null,
+                "license": null,
+                "last_commit": "2024-09-29T15:49:00Z",
+                "open_issues": 3,
+                "owner": "lang-uk",
+                "repo": "ukrainian-word-stress-dictionary",
+                "stars": 25,
+                "topics": [
+                  "dictionary",
+                  "lingustics",
+                  "natural-language-processing",
+                  "ukrainian-language",
+                  "ukrainian-nlp"
+                ]
+              },
+              "first_seen": "2026-08-28T23:40:17.533Z"
+            },
+            {
+              "node_type": "item",
               "title": "obscene-ukr",
               "description": "profanity dictionary",
               "children": [],
@@ -410,33 +437,6 @@
                 "repo": "obscene-ukr",
                 "stars": 24,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T23:40:17.533Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Word stress dictionary",
-              "description": "word stress for 2.7M word forms. See ukrainian-word-stress",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Dictionary of word stresses in the Ukrainian language 🇺🇦",
-                "homepage": null,
-                "id": 377418381,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-09-29T15:49:00Z",
-                "open_issues": 3,
-                "owner": "lang-uk",
-                "repo": "ukrainian-word-stress-dictionary",
-                "stars": 24,
-                "topics": [
-                  "dictionary",
-                  "lingustics",
-                  "natural-language-processing",
-                  "ukrainian-language",
-                  "ukrainian-nlp"
-                ]
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
             },
@@ -509,7 +509,7 @@
             "open_issues": 86,
             "owner": "pymorphy2",
             "repo": "pymorphy2",
-            "stars": 1175,
+            "stars": 1176,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:17.533Z"
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -1022,7 +1022,7 @@
             "open_issues": 11,
             "owner": "egorsmkv",
             "repo": "speech-recognition-uk",
-            "stars": 443,
+            "stars": 444,
             "topics": [
               "speech",
               "speech-recognition",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:13:07.069Z",
+    "last_updated": "2026-11-06T20:33:32.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",

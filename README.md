@@ -53,8 +53,8 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 * [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 635 | 🐛 38 | 🌐 Groovy | 📅 2026-09-22 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
 * [Tonal dictionary](https://github.com/lang-uk/tone-dict-uk) ⭐ 47 | 🐛 1 | 🌐 Common Lisp | 📅 2016-09-26
+* [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 25 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2026-07-20
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) ⭐ 24 | 🐛 0 | 📅 2025-05-15 — profanity dictionary
-* [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 24 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2026-07-20
 * [Heteronyms](https://github.com/lang-uk/ukrainian-heteronyms-dictionary) ⭐ 5 | 🐛 0 | 📅 2022-07-12 — words that share the same spelling but have different meaning/pronunciation.
 * [Abbreviations](https://github.com/lang-uk/ukrainian-abbreviations-dictionary) ⭐ 5 | 🐛 0 | 📅 2022-01-18 — map abbreviation to expansion
 * [Multilingualsentiment, includes Ukrainian](https://sites.google.com/site/datascienceslab/projects/multilingualsentiment) - a list of positive/negative words
@@ -65,7 +65,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 ## 2. Tools
 
-* [pymorphy2](https://github.com/kmike/pymorphy2) ⭐ 1,175 | 🐛 86 | 🌐 Python | 📅 2024-06-26 + [pymorphy2-dicts-uk](https://pypi.org/project/pymorphy2-dicts-uk/) — POS tagger and lemmatizer
+* [pymorphy2](https://github.com/kmike/pymorphy2) ⭐ 1,176 | 🐛 86 | 🌐 Python | 📅 2024-06-26 + [pymorphy2-dicts-uk](https://pypi.org/project/pymorphy2-dicts-uk/) — POS tagger and lemmatizer
 * [NLP-Cube](https://github.com/adobe/NLP-Cube) ⭐ 564 | 🐛 4 | 🌐 HTML | 📅 2024-11-03 - Python package for tokenization, sentence splitting, multi-word-tokenization, lemmatization, part-of-speech tagging and dependency parsing.
 * [nlp-uk](https://github.com/brown-uk/nlp_uk) ⭐ 81 | 🐛 2 | 🌐 Groovy | 📅 2026-09-16 — Tools for cleaning and normalizing texts, tokenization, lemmatization, POS, disambiguation
 * [tree\_stem](https://github.com/amakukha/stemmers_ukrainian) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2022-11-22 — stemmer
@@ -157,7 +157,7 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ## 5. Other resources and links
 
-* [egorsmkv / speech-recognition-uk](https://github.com/egorsmkv/speech-recognition-uk) ⭐ 443 | 🐛 11 | 🌐 Python | 📅 2025-09-12 — speech recognition and text-to-speech models and datasets
+* [egorsmkv / speech-recognition-uk](https://github.com/egorsmkv/speech-recognition-uk) ⭐ 444 | 🐛 11 | 🌐 Python | 📅 2025-09-12 — speech recognition and text-to-speech models and datasets
 * [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 41 | 🐛 1 | 📅 2022-04-27 — another collection of links to Ukrainian language tools.
 
 ## 6. Workshops and conferences
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
