@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11885,
+                "stars": 11884,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -867,7 +867,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14397,
+                "stars": 14396,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -897,7 +897,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14397,
+                "stars": 14396,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -932,7 +932,7 @@
                     "open_issues": 554,
                     "owner": "facebookresearch",
                     "repo": "fastText",
-                    "stars": 26514,
+                    "stars": 26512,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:17.533Z"
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:01:38.614Z",
+    "last_updated": "2026-11-08T19:07:18.225Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
