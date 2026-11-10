@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11882,
+                "stars": 11883,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -287,7 +287,7 @@
                 "id": 48279825,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T12:52:06Z",
+                "last_commit": "2026-11-10T13:53:29Z",
                 "open_issues": 2,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Ukrainian-IU",
@@ -623,7 +623,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32203,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -706,7 +706,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32203,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -814,7 +814,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32203,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -867,7 +867,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14397,
+                "stars": 14399,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -897,7 +897,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14397,
+                "stars": 14399,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -953,7 +953,7 @@
                     "open_issues": 11,
                     "owner": "babylonhealth",
                     "repo": "fastText_multilingual",
-                    "stars": 1203,
+                    "stars": 1202,
                     "topics": [
                       "distributed-representations",
                       "machine-learning",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:33:34.967Z",
+    "last_updated": "2026-11-10T20:59:30.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",

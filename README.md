@@ -41,7 +41,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 * [NER-uk](https://github.com/lang-uk/ner-uk) ⭐ 95 | 🐛 7 | 🌐 Common Lisp | 📅 2026-07-30 — Brown-UK labeled for named entities.
 * [ua-news](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/text_classification) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-10-26 — 150k news article in 5 categories.
 * [UA-SQuAD](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/question_answering) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2025-10-26 — Ukrainian version of Stanford Question Answering Dataset.
-* [Universal Dependencies](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/master) ⭐ 30 | 🐛 2 | 📅 2026-10-05 — dependency trees corpus.
+* [Universal Dependencies](https://github.com/UniversalDependencies/UD_Ukrainian-IU/tree/master) ⭐ 30 | 🐛 2 | 📅 2026-11-10 — dependency trees corpus.
 * [Ukrainian Winograd schema challenge (WSC) Dataset](https://github.com/pkuchmiichuk/ua-coref#ukrainian-wsc-dataset) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-12-22 — manually translated.
 * [Ukrainian OntoNotes Dataset](https://github.com/pkuchmiichuk/ua-coref#ukrainian-ontonotes-dataset) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-12-22 — scripts to build large silver dataset for coreference resolution.
 * [ZNO](https://huggingface.co/datasets/osyvokon/zno) — \~4000 text-only questions and answers from Ukrainian External independent testing (ЗНО/ZNO).
@@ -134,11 +134,11 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ### Word embeddings
 
-* [BPEmb: Subword Embeddings, includes Ukrainian](https://nlp.h-its.org/bpemb/) - easy to use with [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/BYTE_PAIR_EMBEDDINGS.md) ⭐ 14,397 | 🐛 34 | 🌐 Python | 📅 2026-10-19
-* [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/FLAIR_EMBEDDINGS.md) ⭐ 14,397 | 🐛 34 | 🌐 Python | 📅 2026-10-19 — [Ukrainian](https://huggingface.co/lang-uk/flair-uk-forward) added in 2022.
+* [BPEmb: Subword Embeddings, includes Ukrainian](https://nlp.h-its.org/bpemb/) - easy to use with [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/BYTE_PAIR_EMBEDDINGS.md) ⭐ 14,399 | 🐛 34 | 🌐 Python | 📅 2026-10-19
+* [Flair](https://github.com/flairNLP/flair/blob/master/resources/docs/embeddings/FLAIR_EMBEDDINGS.md) ⭐ 14,399 | 🐛 34 | 🌐 Python | 📅 2026-10-19 — [Ukrainian](https://huggingface.co/lang-uk/flair-uk-forward) added in 2022.
 * fastText
   * [Older official fastText trained on Wiki](https://github.com/facebookresearch/fastText/blob/master/docs/pretrained-vectors.md) ⚠️ Archived — 294 languages, including Ukrainian.
-  * [fastText\_multilingual](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,203 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 — 78 languages, aligned to the same vector space.
+  * [fastText\_multilingual](https://github.com/babylonhealth/fastText_multilingual) ⭐ 1,202 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 — 78 languages, aligned to the same vector space.
   * [Official fastText trained on CommonCrawl and Wiki](https://fasttext.cc/docs/en/crawl-vectors.html) — 157 languages, including Ukrainian.
   * [fasttext\_uk (2023)](https://huggingface.co/dchaplinsky/fasttext_uk) and [cbow](https://huggingface.co/dchaplinsky/fasttext_uk_cbow) — trained on UberText 2.0
 * [Word2Vec](https://lang.org.ua/en/models/#anchor4)
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
