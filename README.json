@@ -130,7 +130,7 @@
                 "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
-                "stars": 856,
+                "stars": 857,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
@@ -151,7 +151,7 @@
                 "open_issues": 12,
                 "owner": "Helsinki-NLP",
                 "repo": "Tatoeba-Challenge",
-                "stars": 856,
+                "stars": 857,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
@@ -620,10 +620,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
-                "open_issues": 1352,
+                "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32207,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -703,10 +703,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
-                "open_issues": 1352,
+                "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32207,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -811,10 +811,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-30T11:16:06Z",
-                "open_issues": 1352,
+                "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32207,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -867,7 +867,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14399,
+                "stars": 14401,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -897,7 +897,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14399,
+                "stars": 14401,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:31:48.908Z",
+    "last_updated": "2026-11-12T21:35:10.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
