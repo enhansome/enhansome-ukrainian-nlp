@@ -27,8 +27,8 @@ Curated list of Ukrainian natural language processing (NLP) resources (corpora, 
 
 ### Parallel
 
-* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/) ⭐ 857 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
-* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md) ⭐ 857 | 🐛 12 | 🌐 Makefile | 📅 2026-09-30
+* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/) ⭐ 857 | 🐛 12 | 🌐 Makefile | 📅 2026-11-14
+* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md) ⭐ 857 | 🐛 12 | 🌐 Makefile | 📅 2026-11-14
 * [OPUS](https://opus.nlpl.eu/)
 * [Polish-Ukrainian Parallel Corpus](https://clarin-pl.eu/dspace/handle/11321/535)
 * [Wiki Edits](https://huggingface.co/datasets/osyvokon/wiki-edits-uk) — 5M sentence edits extracted from the Ukrainian Wikipedia revision history.
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
