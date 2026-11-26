@@ -51,7 +51,7 @@ See [Helsinki-NLP/UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐ 
 
 ### Dictionaries
 
-* [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 638 | 🐛 39 | 🌐 Groovy | 📅 2026-11-09 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
+* [ВЕСУМ](https://github.com/brown-uk/dict_uk) ⭐ 639 | 🐛 39 | 🌐 Groovy | 📅 2026-11-09 — POS tag dictionary. Can generate a list of all word forms valid for spelling.
 * [Tonal dictionary](https://github.com/lang-uk/tone-dict-uk) ⭐ 46 | 🐛 1 | 🌐 Common Lisp | 📅 2016-09-26
 * [Word stress dictionary](https://github.com/lang-uk/ukrainian-word-stress-dictionary) ⭐ 25 | 🐛 3 | 📅 2024-09-29 — word stress for 2.7M word forms. See [ukrainian-word-stress](https://github.com/lang-uk/ukrainian-word-stress) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2026-07-20
 * [obscene-ukr](https://github.com/saganoren/obscene-ukr) ⭐ 24 | 🐛 0 | 📅 2025-05-15 — profanity dictionary
@@ -171,4 +171,4 @@ See [Helsinki-NLP/ UkrainianLT](https://github.com/Helsinki-NLP/UkrainianLT) ⭐
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
