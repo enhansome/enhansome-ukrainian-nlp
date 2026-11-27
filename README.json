@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "allenai",
                 "repo": "allennlp",
-                "stars": 11883,
+                "stars": 11882,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -49,7 +49,7 @@
                 "open_issues": 4,
                 "owner": "brown-uk",
                 "repo": "corpus",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:17.533Z"
@@ -361,7 +361,7 @@
                 "open_issues": 39,
                 "owner": "brown-uk",
                 "repo": "dict_uk",
-                "stars": 639,
+                "stars": 640,
                 "topics": [
                   "dictionaries",
                   "hunspell",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:16:35.117Z",
+    "last_updated": "2026-11-27T22:55:26.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.)",
@@ -1138,7 +1138,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-02-19T10:59:54Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "osyvokon",
       "repo": "awesome-ukrainian-nlp",
       "stars": 240,
